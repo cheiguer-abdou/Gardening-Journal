@@ -1,4 +1,4 @@
-# Gardening-Journal-MDP
+# Gardening-Journal-MDP :sunflower:
 
 ## Overview
 
