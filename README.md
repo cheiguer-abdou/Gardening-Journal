@@ -19,9 +19,23 @@ This Android Kotlin app, titled **Gardening Journal**, features essential compon
 
 ## App Screens
 
-- Home screen
-- Garden Log screen
-- Plant Details screen
+### App Icon
+<img src="screenshots/1_app_icon.png" width="300" height="auto"/>
+
+### Home screen
+<img src="screenshots/2_home_screen.png" width="300" height="auto"/>
+
+### Garden Log screen
+<img src="screenshots/3_garden_log_screen.png" width="300" height="auto"/>
+
+### Add Plant to DB
+<img src="screenshots/4_add_plant_to_db.png" width="300" height="auto"/>
+
+### Plant Added
+<img src="screenshots/5_plant_added.png" width="300" height="auto"/>
+
+### Plant Details screen
+<img src="screenshots/6_plant_detail_screen.png" width="300" height="auto"/>
 
 <hr>
 
