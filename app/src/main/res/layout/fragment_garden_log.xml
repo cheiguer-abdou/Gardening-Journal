@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/plantRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:clipToPadding="false"
+        android:scrollbars="vertical" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="20dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:textAlignment="center"
+            android:text="@string/txt_plant_form"/>
+
+        <EditText
+            android:id="@+id/editTextPlantName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/plant_name"
+            android:autofillHints=""
+            android:inputType="textAutoComplete" />
+
+        <EditText
+            android:id="@+id/editTextPlantType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/plant_type"
+            android:autofillHints=""
+            android:inputType="textAutoComplete" />
+
+        <EditText
+            android:id="@+id/editTextWateringFrequency"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/plant_watering_frequency"
+            android:autofillHints=""
+            android:inputType="number" />
+
+        <Button
+            android:id="@+id/btnAddPlant"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:text="@string/btn_add_plant" />
+    </LinearLayout>
+
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gardening Journal</string>
+    <string name="txt_plant_form">Plant form</string>
+    <string name="plant_name">Plant Name: </string>
+    <string name="plant_type">Plant Type: </string>
+    <string name="plant_watering_frequency">Plant Watering Frequency: </string>
+    <string name="btn_add_plant">Add Plant</string>
+    <string name="plant_date">Plant Date:</string>
+    <string name="btn_navigate_to_garden_log">Navigate to the Garden Log</string>
+    <string name="txt_home_fragment">Home Fragment</string>
+    <string name="btn_back_to_garden_log">Back to Garden Log</string>
+</resources>
