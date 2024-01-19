@@ -23,9 +23,9 @@ class HomeFragment: Fragment() {
         super.onViewCreated(view, savedInstanceState)
 
         homeViewModel = ViewModelProvider(this)[HomeViewModel::class.java]
-        homeViewModel.deleteAll()
+//        homeViewModel.deleteAll()
 
-        initializeDummyData()
+//        initializeDummyData()
 
         val navController = findNavController()
         view.findViewById<Button>(R.id.btnNavigateToGardenLog).setOnClickListener {
