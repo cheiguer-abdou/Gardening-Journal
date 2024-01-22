@@ -6,9 +6,9 @@ This Android Kotlin app, titled **Gardening Journal**, features essential compon
 
 ## Navigation Structure
 
-- **Home:** Overview of plants.
-- **Garden Log:** Detailed activity log.
-- **Plant Details:** Comprehensive plant information.
+- **Home**
+- **Garden Log**
+- **Plant Details**
 
 ## Components
 
@@ -17,25 +17,21 @@ This Android Kotlin app, titled **Gardening Journal**, features essential compon
 - **Coroutines:** Asynchronous operations for smooth performance.
 
 
-## App Screens
-
-### App Icon
-<img src="screenshots/1_app_icon.png" width="300" height="auto"/>
-
 ### Home screen
-<img src="screenshots/2_home_screen.png" width="300" height="auto"/>
+![Screenshot 2024-01-21 at 11 34 00 PM](https://github.com/cheiguer-abdou/Gardening-Journal/assets/78423699/60e3363d-6df6-4560-8ac2-344fcdaad6e8)
+
 
 ### Garden Log screen
-<img src="screenshots/3_garden_log_screen.png" width="300" height="auto"/>
+![Screenshot 2024-01-21 at 11 34 12 PM](https://github.com/cheiguer-abdou/Gardening-Journal/assets/78423699/34e04a94-d562-48eb-8aaa-64aef5ca431f)
+
 
 ### Add Plant to DB
-<img src="screenshots/4_add_plant_to_db.png" width="300" height="auto"/>
+![Screenshot 2024-01-21 at 11 35 04 PM](https://github.com/cheiguer-abdou/Gardening-Journal/assets/78423699/d592b338-f0bc-40d5-8aee-4a6274f0b846)
 
-### Plant Added
-<img src="screenshots/5_plant_added.png" width="300" height="auto"/>
 
 ### Plant Details screen
-<img src="screenshots/6_plant_detail_screen.png" width="300" height="auto"/>
+![Screenshot 2024-01-21 at 11 35 37 PM](https://github.com/cheiguer-abdou/Gardening-Journal/assets/78423699/56a864b7-ebc1-489d-a29a-1dad0427e301)
+
 
 <hr>
 
@@ -45,4 +41,4 @@ This Android Kotlin app, titled **Gardening Journal**, features essential compon
 - Build and run the app on an Android device or emulator.
 
 ## Credits
-This project was created by Fortune King.
+Created by Abdel wehab Cheiguer.
